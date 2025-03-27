@@ -20,4 +20,4 @@ An interactive AI tutor specializing in prompt engineering and LLM behavior, pow
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/Shubham-dhanda22/collegeproject.git]
+git clone https://github.com/Shubham-dhanda22/collegeproject.git
